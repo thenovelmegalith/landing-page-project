@@ -5,6 +5,8 @@ This project is a responsive landing page for a fictional tech company called **
 ## Project Structure
 
 The project is structured as follows:
+
+```
 .
 |-- README.md
 |-- images
@@ -12,10 +14,12 @@ The project is structured as follows:
 |   |-- digital-future.jpg
 |   |-- expert-team.jpg
 |   |-- innovative-solutions.jpg
-|   |-- scalable-solutions.jpg 
-|-- index.html 
-|-- styles.css
+|   `-- scalable-solutions.jpg
+|-- index.html
+`-- styles.css
 
+2 directories, 8 files
+```
 
 ### Files and Folders
 

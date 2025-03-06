@@ -45,8 +45,8 @@ The design of the landing page is based on the following:
 
 ### Design Images
 
-- **Image One (Full Design)**: The complete design of the landing page.
-- **Image Two (Color and Fonts)**: The color palette and font styles used in the design.
+- **[Image One (Full Design)](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)**: The complete design of the landing page.
+- **[Image Two (Color and Fonts)](https://cdn.statically.io/gh/TheOdinProject/curriculum/a38403e7d81cc8305af16ac48985cfbde87834d6/foundations/html_css/flexbox/project-landing-page/imgs/02.png)**: The color palette and font styles used in the design.
 
 ## Development Approach
 

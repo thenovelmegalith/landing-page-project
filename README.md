@@ -2,6 +2,19 @@
 
 This project is a responsive landing page for a fictional tech company called **Tech Innovate**. The page is designed to showcase the company's services and encourage users to sign up. The design follows a modern and clean layout with a focus on usability and aesthetics.
 
+## Table of Contents
+- [Tech Innovate Landing Page](#tech-innovate-landing-page)
+  - [Table of Contents](#table-of-contents)
+  - [Project Structure](#project-structure)
+    - [Files and Folders](#files-and-folders)
+  - [Design and Layout](#design-and-layout)
+    - [Design Images](#design-images)
+  - [Development Approach](#development-approach)
+  - [Resources](#resources)
+  - [How to Run the Project](#how-to-run-the-project)
+  - [Deployment](#deployment)
+  - [License](#license)
+
 ## Project Structure
 
 The project is structured as follows:
